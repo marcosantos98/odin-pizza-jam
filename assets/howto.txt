@@ -1,0 +1,10 @@
+Controls:
+A : Move left | D : Move right | Space : Jump
+
+Objective:
+Keep jumping until you get the gold trophy!
+
+Rules:
+Keep getting coffee (white cups) to increase the jump boost timer.
+If the jum boost bar runs out and you hit the dead zone the game ends.
+Green cups replaces the respawn point and moves the dead zone to it.
